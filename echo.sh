@@ -1,3 +1,1 @@
-echo 'Hello runSh!!'
-
-echo 'slept well'
+echo 'Hello bash!!'
