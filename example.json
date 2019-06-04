@@ -1,7 +1,7 @@
 { 
 
    "TEST": "example",
-   "SAMPLE": "master"
+   "SAMPLE": "master",
    "STEP_URL" : "https://rcapp.shippable.com/Varsha-Arun/sample-python/45"
 
 }
